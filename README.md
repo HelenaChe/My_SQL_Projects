@@ -4,16 +4,16 @@ This project includes example data and practice tasks for writing SQL queries.
 
 **Part I** focuses on key product and user behavior metrics, such as:
 
-- Daily / Weekly / Monthly Active Users (DAU / WAU / MAU)
+- Daily / Weekly / Monthly active Users (DAU / WAU / MAU)
 - Retention Rate
 - Conversion Rate
-- Repeat Customers
-- Top Products by Quantity Sold
-- Product Popularity by Category
-- Average Items per Order
-- Average Time from Sale to Delivery
-- Average Discount per Product
-- Orders per Customer
+- Repeat customers
+- Top products by quantity sold
+- Product popularity by category
+- Average items per order
+- Average time from sale to delivery
+- Average discount per product
+- Orders per customer
 
 The dataset is fictional and created for learning and portfolio purposes.
 All queries are written in **PostgreSQL**.
