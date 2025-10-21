@@ -1,13 +1,3 @@
-select *
-from customer
-
-select *
-from orders
-order by order_id
-
-select *
-from product
-
 -- PART 2. Financial and Marketing Metrics
 
 -- 2.1 Total Revenue - Total income from all sales
